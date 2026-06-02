@@ -1,5 +1,3 @@
-# business-updater
-app for small business that helps them with their internet appearance
 📍 BusinessSync
 
 Update your business everywhere in one place.
