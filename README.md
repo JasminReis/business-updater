@@ -1,4 +1,4 @@
-📍 BusinessSync
+//📍 BusinessSync
 
 Update your business everywhere in one place.
 
